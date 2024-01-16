@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 😄 My name is Jed Rendo Magracia.
+- 🔭 I’m currently working on [jedrm/MediaGrapher](https://github.com/jedrm/MediaGrapher).
+- 🌱 I’m currently learning Rust and DevOps.
+- 📫 You can reach me via email at: [jedmagracia@gmail.com](mailto:jedmagracia@gmail.com).
+
 <!--
 **jedrm/jedrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
